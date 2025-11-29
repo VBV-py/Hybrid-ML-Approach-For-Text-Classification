@@ -1,0 +1,10 @@
+datasets
+scikit-learn
+sentence-transformers
+flask
+joblib
+numpy
+pandas
+shap
+lime
+gunicorn
