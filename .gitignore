@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Env
+venv/
+env/
+
+# Model files
+*.pt
+*.pkl
+*.joblib
+*.bin
+*.h5
+
+models/
+
+files/
