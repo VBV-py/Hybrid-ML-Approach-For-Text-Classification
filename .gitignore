@@ -13,6 +13,5 @@ env/
 *.bin
 *.h5
 
-models/
 
 files/
