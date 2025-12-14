@@ -112,7 +112,15 @@ The system is evaluated on the **AG News dataset** and achieves **92.3% accuracy
 
 ---
 
+## Steps to run this project
+```bash
+pip install -r req.txt
 
+python train.py
+
+python app.py
+```
+---
 ## Authors
 
 **Vaibhav Singh**  
