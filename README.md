@@ -54,11 +54,11 @@ The system is evaluated on the **AG News dataset** and achieves **92.3% accuracy
 ## Example Output
 
 <!-- Insert screenshot of web demo here -->
-![Demo](files/demo.png)
+![Demo](demo.png)
 <!-- Insert screenshot of SHAP explanation here -->
-![SHAP](files/shap.png)
+![SHAP](shap.png)
 <!-- Insert screenshot of LIME explanation here -->
-![LIME](files/lime.png)
+![lime](lime.png)
 ---
 
 ## Dataset
@@ -114,7 +114,7 @@ The system is evaluated on the **AG News dataset** and achieves **92.3% accuracy
 
 ## Steps to run this project
 ```bash
-pip install -r req.txt
+pip install -r requirements.txt
 
 python train.py
 
