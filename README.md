@@ -124,5 +124,7 @@ python app.py
 ## Authors
 
 **Vaibhav Singh**  
+**Raghav Garg**  
+
 Department of Computer Science and Engineering  
 
